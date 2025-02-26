@@ -1,3 +1,6 @@
+# -------------------------------------------------------------------
+# ehhez hasonlót írni másik plot-tal
+# -------------------------------------------------------------------
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
